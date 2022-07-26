@@ -177,7 +177,7 @@ export default function Home() {
 
   /**
    * getTotalTokensMinted: Retrieves how many tokens have been minted till now
-   * out of the total supply
+   * out of the total supplyy
    */
   const getTotalTokensMinted = async () => {
     try {
